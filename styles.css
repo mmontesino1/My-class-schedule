@@ -1,0 +1,20 @@
+
+body {
+    background-image:url("https://www.legat.com/wp-content/uploads/2023/05/John-Hancock-College-Preparatory-High-School-Courtyard.jpg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+table,th,td{
+border:1px solid white
+}
+table{
+    background-color:lightslategrey;
+}
+#special{
+    color: beige;
+}
+h1{
+    color:maroon
+ }
